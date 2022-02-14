@@ -2,8 +2,8 @@
 	UNIVERSIDAD DE LAS FUERZAS ARMADAS ESPE
 	SUDOKU
 	Autores: Gallardo Juan, Naspud Camila
-	Fecha de Creación:		08/06/2021
-	Fecha de modificacion:	08/06/2021
+	Fecha de Creación:		13/02/2021
+	Fecha de modificacion:	14/02/2021
 	Docente: 				Ing. Fernando Solis
 	Carrera: 				Ingenieria de Software
 	Asignatura:             Estructura de Datos
