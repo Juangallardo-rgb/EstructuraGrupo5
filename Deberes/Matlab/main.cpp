@@ -1,3 +1,15 @@
+/*
+	UNIVERSIDAD DE LAS FUERZAS ARMADAS ESPE
+	TIEMPO DE EJECUCIÓN DE UN ALGORITMO CON MATLAB
+	Autores: Gallardo Juan, Naspud Camila
+	Fecha de Creación:	14 de febrero del 2022
+	Fecha de modificacion:	15 de febrero del 2022 
+	Docente: 				Ing. Fernando Solis
+	Carrera: 				Ingenieria de Software
+	Asignatura:             Estructura de Datos
+*/
+
+
 #include <iostream> //comandos de entrada y salida
 #include<fstream> // gestionar archivos
 #include<math.h> //operaciones matematicas
